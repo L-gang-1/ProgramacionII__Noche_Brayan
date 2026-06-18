@@ -1,0 +1,7 @@
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\bin\Debug\practica.1_introduccion_progra2_Noche.exe.config
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\bin\Debug\practica.1_introduccion_progra2_Noche.exe
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\bin\Debug\practica.1_introduccion_progra2_Noche.pdb
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\obj\Debug\practica.1_introduccion_progra2_Noche.csproj.AssemblyReference.cache
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\obj\Debug\practica.1_introduccion_progra2_Noche.csproj.CoreCompileInputs.cache
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\obj\Debug\practica.1_introduccion_progra2_Noche.exe
+D:\programacion2_noche.shi\practica.1_introduccion_progra2_Noche\obj\Debug\practica.1_introduccion_progra2_Noche.pdb

@@ -1,0 +1,7 @@
+D:\programacion2_noche.shi\EJERCICIO_!\bin\Debug\EJERCICIO_!.exe.config
+D:\programacion2_noche.shi\EJERCICIO_!\bin\Debug\EJERCICIO_!.exe
+D:\programacion2_noche.shi\EJERCICIO_!\bin\Debug\EJERCICIO_!.pdb
+D:\programacion2_noche.shi\EJERCICIO_!\obj\Debug\EJERCICIO_!.csproj.AssemblyReference.cache
+D:\programacion2_noche.shi\EJERCICIO_!\obj\Debug\EJERCICIO_!.csproj.CoreCompileInputs.cache
+D:\programacion2_noche.shi\EJERCICIO_!\obj\Debug\EJERCICIO_!.exe
+D:\programacion2_noche.shi\EJERCICIO_!\obj\Debug\EJERCICIO_!.pdb

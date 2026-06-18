@@ -1,0 +1,7 @@
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\bin\Debug\PRACTICA1_2DO_BI.exe.config
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\bin\Debug\PRACTICA1_2DO_BI.exe
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\bin\Debug\PRACTICA1_2DO_BI.pdb
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\obj\Debug\PRACTICA1_2DO_BI.csproj.AssemblyReference.cache
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\obj\Debug\PRACTICA1_2DO_BI.csproj.CoreCompileInputs.cache
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\obj\Debug\PRACTICA1_2DO_BI.exe
+D:\programacion2_noche.shi\PRACTICA1_2DO_BI\obj\Debug\PRACTICA1_2DO_BI.pdb
