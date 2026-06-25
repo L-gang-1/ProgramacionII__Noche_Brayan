@@ -1,0 +1,7 @@
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\bin\Debug\practica-2.exe.config
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\bin\Debug\practica-2.exe
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\bin\Debug\practica-2.pdb
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\obj\Debug\practica-2.csproj.AssemblyReference.cache
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\obj\Debug\practica-2.csproj.CoreCompileInputs.cache
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\obj\Debug\practica-2.exe
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\practica-2\obj\Debug\practica-2.pdb
