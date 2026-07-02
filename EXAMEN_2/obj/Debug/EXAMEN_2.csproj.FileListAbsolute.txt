@@ -1,0 +1,7 @@
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\bin\Debug\EXAMEN_2.exe.config
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\bin\Debug\EXAMEN_2.exe
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\bin\Debug\EXAMEN_2.pdb
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\obj\Debug\EXAMEN_2.csproj.AssemblyReference.cache
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\obj\Debug\EXAMEN_2.csproj.CoreCompileInputs.cache
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\obj\Debug\EXAMEN_2.exe
+C:\programacion-II-brayan\ProgramacionII__Noche_Brayan\EXAMEN_2\obj\Debug\EXAMEN_2.pdb

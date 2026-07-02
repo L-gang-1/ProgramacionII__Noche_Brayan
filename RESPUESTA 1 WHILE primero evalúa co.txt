@@ -1,0 +1,2 @@
+RESPUESTA 1: WHILE primero evalúa condiciones y luego las ejecuta DO WHILE primero ejecuta luego evalua.
+RESPUESTA 2:si una variable se declara dentro de un bloque.
